@@ -18,4 +18,4 @@ Steps to open the current project:
 
 7. When making changes, don't forget to save and commit to master and Push via Github Desktop
 
-8. If a mesh makes the repository exceed 100mb, place it in the map but send the Material and Mesh files via another software, such as Google Drive or Dropbox
+8. If a mesh is more than 100 MB, or makes the repository exceed 100 GB, place it in the map but send the Material and Mesh files via another software, such as Google Drive or Dropbox
