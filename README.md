@@ -4,7 +4,7 @@ Steps to open the current project:
 
 1. Create a Unreal Project with the following Settings: First Person, Maximum quality, No starter content, Blueprints
 
-2. Download and extract the following folder ==>
+2. Download and extract the following folder ==> http://www.mediafire.com/file/h8sm01900ic6vfz/Content.zip/file
 
 3. Delete the Content folder in your new project and replace it with the one you extracted
 
